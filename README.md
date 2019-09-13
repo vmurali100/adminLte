@@ -1,68 +1,27 @@
-**THE 3.0.0 VERSION IS UNDER DEVELOPMENT, CHECK [V3.0.0 BRANCH](https://github.com/csotomon/Angular2-AdminLTE/tree/v3.0.0)**
+# AdminLteTest
 
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.2.
 
-Introduction
-============
+## Development server
 
-This is the **Angular** version of **AdminLTE** -- what is a fully responsive admin template. Based on **[Bootstrap 3](https://github.com/twbs/bootstrap)** framework. Highly customizable and easy to use. Fits many screen resolutions from small mobile devices to large desktops. Check out the live preview now and see for yourself.
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-For more AdminLTE information visit  [AdminLTE.IO](https://adminlte.io/)
+## Code scaffolding
 
-Installation
-------------
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-- Fork the repository ([here is the guide](https://help.github.com/articles/fork-a-repo/)).
-- Clone to your machine
-- Install Angular 2 Client.
-```bash
-npm install -g @angular/cli
-```
-- Clone the repository
-```bash
-git clone https://github.com/YOUR_USERNAME/Angular2-AdminLTE.git
-```
+## Build
 
-- Install the packages
-```bash
-cd Angular2-AdminLTE
-npm install
-```
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-Running the application
-------------
-- On the folder project
-```
-ng serve
-```
-- For starter page Navigate to [http://localhost:4200/](http://localhost:4200/)
-- For admin page Navigate to [http://localhost:4200/admin](http://localhost:4200/admin)
+## Running unit tests
 
-Browser Support
----------------
-- IE 9+
-- Firefox (latest)
-- Chrome (latest)
-- Safari (latest)
-- Opera (latest)
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-Contribution
-------------
-Contribution are always **welcome and recommended**! Here is how:
+## Running end-to-end tests
 
-- Fork the repository ([here is the guide](https://help.github.com/articles/fork-a-repo/)).
-- Clone to your machine ```git clone https://github.com/YOUR_USERNAME/Angular2-AdminLTE.git```
-- Make your changes
-- Create a pull request
+Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-#### Contribution Requirements:
-- Contributions are only accepted through Github pull requests.
-- Finally, contributed code must work in all supported browsers (see above for browser support).
+## Further help
 
-License
--------
-Angular2-AdminLTE is an open source project by that is licensed under [MIT](http://opensource.org/licenses/MIT).
-
- Credits
--------------
-[AdminLTE.IO](https://adminlte.io/)
-
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
